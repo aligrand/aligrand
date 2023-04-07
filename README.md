@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aligrand
-- 🎓 I'm university student of Computer Engineering 
+- 🎓 Student at Ferdowsi University of Mashhad - Computer Engineering
 - 📫 You can reach me by email to : ali.workjob@outlook.com
 - 🇮🇷  I'm from Iran
 <!---
